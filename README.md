@@ -1,2 +1,2 @@
 # dax5
-project for digital academy x5
+projects for digital academy x5

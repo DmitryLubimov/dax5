@@ -23,4 +23,4 @@ for i in range(0, len(ex1_question_array)):  # перебираем массив
     else:
         print('Неверный ответ')
 
-print('Верных ответов {} из 10'.format(str(ex1_correct_answers_count)))
+print('\nВерных ответов {} из 10'.format(str(ex1_correct_answers_count)))
